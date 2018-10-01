@@ -1,0 +1,22 @@
+E:\Tugas program\terbilangApp\terbilangApp\bin\Debug\terbilangApp.exe.config
+E:\Tugas program\terbilangApp\terbilangApp\bin\Debug\terbilangApp.exe
+E:\Tugas program\terbilangApp\terbilangApp\bin\Debug\terbilangApp.pdb
+E:\Tugas program\terbilangApp\terbilangApp\obj\Debug\terbilangApp.csprojResolveAssemblyReference.cache
+E:\Tugas program\terbilangApp\terbilangApp\obj\Debug\terbilangApp.Form1.resources
+E:\Tugas program\terbilangApp\terbilangApp\obj\Debug\terbilangApp.Properties.Resources.resources
+E:\Tugas program\terbilangApp\terbilangApp\obj\Debug\terbilangApp.csproj.GenerateResource.Cache
+E:\Tugas program\terbilangApp\terbilangApp\obj\Debug\terbilangApp.exe
+E:\Tugas program\terbilangApp\terbilangApp\obj\Debug\terbilangApp.pdb
+E:\Tugas program\terbilangApp\terbilangApp\bin\Debug\terbilangLibrary.dll
+E:\Tugas program\terbilangApp\terbilangApp\bin\Debug\terbilangLibrary.pdb
+C:\Users\ASUS\Desktop\terbilangApp\terbilangApp\bin\Debug\terbilangApp.exe.config
+C:\Users\ASUS\Desktop\terbilangApp\terbilangApp\obj\Debug\terbilangApp.exe
+C:\Users\ASUS\Desktop\terbilangApp\terbilangApp\obj\Debug\terbilangApp.pdb
+C:\Users\ASUS\Desktop\terbilangApp\terbilangApp\obj\Debug\terbilangApp.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\terbilangApp\terbilangApp\obj\Debug\terbilangApp.Form1.resources
+C:\Users\ASUS\Desktop\terbilangApp\terbilangApp\obj\Debug\terbilangApp.Properties.Resources.resources
+C:\Users\ASUS\Desktop\terbilangApp\terbilangApp\obj\Debug\terbilangApp.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\terbilangApp\terbilangApp\bin\Debug\terbilangApp.exe
+C:\Users\ASUS\Desktop\terbilangApp\terbilangApp\bin\Debug\terbilangApp.pdb
+C:\Users\ASUS\Desktop\terbilangApp\terbilangApp\bin\Debug\terbilangLibrary.dll
+C:\Users\ASUS\Desktop\terbilangApp\terbilangApp\bin\Debug\terbilangLibrary.pdb

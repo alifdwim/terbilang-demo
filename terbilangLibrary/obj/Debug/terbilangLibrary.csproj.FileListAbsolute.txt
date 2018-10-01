@@ -1,0 +1,4 @@
+E:\Tugas program\terbilangApp\terbilangLibrary\bin\Debug\terbilangLibrary.dll
+E:\Tugas program\terbilangApp\terbilangLibrary\bin\Debug\terbilangLibrary.pdb
+E:\Tugas program\terbilangApp\terbilangLibrary\obj\Debug\terbilangLibrary.dll
+E:\Tugas program\terbilangApp\terbilangLibrary\obj\Debug\terbilangLibrary.pdb
